@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlueprintClassEntries>
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBSPTLevel1" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBLPTLevel1" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBSPTLevel2" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBLPTLevel2" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBSPTLevel3" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBLPTLevel3" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBSPTLevel4" />
+	<Entry Class="SmallBlocks" BlueprintSubtypeId="Thrust/SBLPTLevel4" />
+
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBSPTLevel1" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBLPTLevel1" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBSPTLevel2" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBLPTLevel2" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBSPTLevel3" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBLPTLevel3" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBSPTLevel4" />
+	<Entry Class="LargeBlocks" BlueprintSubtypeId="Thrust/LBLPTLevel4" />
+	
+	<Entry Class="Components" BlueprintSubtypeId="ParticleThrustComponent" />
+
+  </BlueprintClassEntries>
+</Definitions>
+
