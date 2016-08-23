@@ -1160,4 +1160,5 @@
     <!-- End Largeship Thrust -->
     <!-- End Level 4 Thrust (Angel Fire) -->
   </CubeBlocks>
+  <BlockPositions />
 </Definitions>
