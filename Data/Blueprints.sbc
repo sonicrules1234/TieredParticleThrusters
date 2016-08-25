@@ -11,10 +11,10 @@
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Iron" />
         <Item Amount="0.75" TypeId="Ingot" SubtypeId="Platinum" />
-		<Item Amount="3" TypeId="Ingot" SubtypeId="Silver" />
+	    <Item Amount="3" TypeId="Ingot" SubtypeId="Silver" />
         <Item Amount="3" TypeId="Ingot" SubtypeId="Gold" />
-		<Item Amount="15" TypeId="Ingot" SubtypeId="Cobalt" />
-		<Item Amount="1" TypeId="Ingot" SubtypeId="Uranium" />
+	    <Item Amount="15" TypeId="Ingot" SubtypeId="Cobalt" />
+	    <Item Amount="1" TypeId="Ingot" SubtypeId="Uranium" />
       </Prerequisites>
       <Result Amount="1" TypeId="Component" SubtypeId="ParticleThrustComponent" />
       <BaseProductionTimeInSeconds>18</BaseProductionTimeInSeconds>
