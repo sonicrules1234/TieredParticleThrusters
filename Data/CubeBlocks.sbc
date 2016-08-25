@@ -390,11 +390,11 @@
         <Component Count="1" Subtype="SteelPlate" />
         <Component Count="1" Subtype="Construction" />
         <Component Count="5" Subtype="LargeTube" />
-        <Component Count="32" Subtype="ParticleThrustComponent" />
+        <Component Count="24" Subtype="ParticleThrustComponent" />
         <Component Count="80" Subtype="Computer" />
         <Component Count="6" Subtype="Superconductor" />
         <Component Count="8" Subtype="MetalGrid" />
-        <Component Count="9" Subtype="ParticleThrustComponent" />
+        <Component Count="6" Subtype="ParticleThrustComponent" />
         <Component Count="1" Subtype="Construction" />
         <Component Count="4" Subtype="SteelPlate" />
       </Components>
@@ -690,11 +690,11 @@
         <Component Count="1" Subtype="SteelPlate" />
         <Component Count="1" Subtype="Construction" />
         <Component Count="5" Subtype="LargeTube" />
-        <Component Count="24" Subtype="ParticleThrustComponent" />
+        <Component Count="32" Subtype="ParticleThrustComponent" />
         <Component Count="100" Subtype="Computer" />
         <Component Count="6" Subtype="Superconductor" />
         <Component Count="10" Subtype="MetalGrid" />
-        <Component Count="6" Subtype="ParticleThrustComponent" />
+        <Component Count="9" Subtype="ParticleThrustComponent" />
         <Component Count="1" Subtype="Construction" />
         <Component Count="4" Subtype="SteelPlate" />
       </Components>
@@ -915,6 +915,16 @@
       <Size x="1" y="1" z="2" />
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Small\ThrustSmall.mwm</Model>
+      <Components>
+        <Component Count="2" Subtype="LargeTube" />
+        <Component Count="5" Subtype="ParticleThrustComponent" />
+        <Component Count="40" Subtype="Computer" />
+        <Component Count="1" Subtype="Superconductor" />
+        <Component Count="4" Subtype="MetalGrid" />
+        <Component Count="2" Subtype="ParticleThrustComponent" />
+        <Component Count="2" Subtype="Construction" />
+        <Component Count="2" Subtype="SteelPlate" />
+      </Components>
       <CriticalComponent Index="0" Subtype="MetalGrid" />
       <MountPoints>
         <MountPoint EndX="1" EndY="1" Side="Back" StartX="0" StartY="0" />
@@ -977,6 +987,18 @@
       <Size x="3" y="2" z="4" />
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Small\ThrustLarge.mwm</Model>
+      <Components>
+        <Component Count="1" Subtype="SteelPlate" />
+        <Component Count="1" Subtype="Construction" />
+        <Component Count="5" Subtype="LargeTube" />
+        <Component Count="40" Subtype="ParticleThrustComponent" />
+        <Component Count="125" Subtype="Computer" />
+        <Component Count="6" Subtype="Superconductor" />
+        <Component Count="15" Subtype="MetalGrid" />
+        <Component Count="12" Subtype="ParticleThrustComponent" />
+        <Component Count="1" Subtype="Construction" />
+        <Component Count="4" Subtype="SteelPlate" />
+      </Components>
       <CriticalComponent Index="0" Subtype="MetalGrid" />
       <MountPoints>
         <MountPoint EndX="3" EndY="2" Side="Back" StartX="0" StartY="0" />
@@ -1042,6 +1064,18 @@
       <Size x="1" y="1" z="2" />
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Large\ThrustSmall.mwm</Model>
+      <Components>
+        <Component Count="15" Subtype="SteelPlate" />
+        <Component Count="40" Subtype="Construction" />
+        <Component Count="8" Subtype="LargeTube" />
+        <Component Count="90" Subtype="ParticleThrustComponent" />
+        <Component Count="250" Subtype="Computer" />
+        <Component Count="12" Subtype="Superconductor" />
+        <Component Count="25" Subtype="MetalGrid" />
+        <Component Count="50" Subtype="ParticleThrustComponent" />
+        <Component Count="20" Subtype="Construction" />
+        <Component Count="10" Subtype="SteelPlate" />
+      </Components>
       <CriticalComponent Index="0" Subtype="MetalGrid" />
       <MountPoints>
         <MountPoint EndX="1" EndY="1" Side="Back" StartX="0" StartY="0" />
@@ -1104,6 +1138,18 @@
       <Size x="3" y="2" z="4" />
       <ModelOffset x="0" y="0" z="0" />
       <Model>Models\Cubes\Large\ThrustLarge.mwm</Model>
+      <Components>
+        <Component Count="100" Subtype="SteelPlate" />
+        <Component Count="70" Subtype="Construction" />
+        <Component Count="80" Subtype="LargeTube" />
+        <Component Count="1260" Subtype="ParticleThrustComponent" />
+        <Component Count="900" Subtype="Computer" />
+        <Component Count="72" Subtype="Superconductor" />
+        <Component Count="300" Subtype="MetalGrid" />
+        <Component Count="260" Subtype="ParticleThrustComponent" />
+        <Component Count="30" Subtype="Construction" />
+        <Component Count="50" Subtype="SteelPlate" />
+      </Components>
       <CriticalComponent Index="0" Subtype="MetalGrid" />
       <MountPoints>
         <MountPoint EndX="3" EndY="2" Side="Top" StartX="0" StartY="0" />
