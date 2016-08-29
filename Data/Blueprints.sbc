@@ -9,12 +9,12 @@
       <DisplayName>Particle Thrust Component</DisplayName>
       <Icon>Textures\GUI\Icons\component\particle_thrust_components_component.dds</Icon>
       <Prerequisites>
-        <Item Amount="30" TypeId="Ingot" SubtypeId="Iron" />
-        <Item Amount="0.75" TypeId="Ingot" SubtypeId="Platinum" />
-        <Item Amount="3" TypeId="Ingot" SubtypeId="Silver" />
-        <Item Amount="3" TypeId="Ingot" SubtypeId="Gold" />
-        <Item Amount="10" TypeId="Ingot" SubtypeId="Cobalt" />
-        <Item Amount="0.25" TypeId="Ingot" SubtypeId="Uranium" />
+        <Item Amount="90" TypeId="Ingot" SubtypeId="Iron" />
+        <Item Amount="2.25" TypeId="Ingot" SubtypeId="Platinum" />
+        <Item Amount="9" TypeId="Ingot" SubtypeId="Silver" />
+        <Item Amount="9" TypeId="Ingot" SubtypeId="Gold" />
+        <Item Amount="30" TypeId="Ingot" SubtypeId="Cobalt" />
+        <Item Amount="0.75" TypeId="Ingot" SubtypeId="Uranium" />
       </Prerequisites>
       <Result Amount="1" TypeId="Component" SubtypeId="ParticleThrustComponent" />
       <BaseProductionTimeInSeconds>18</BaseProductionTimeInSeconds>
